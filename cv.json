@@ -6,7 +6,7 @@
     "email": "josemanuel.duran@a.vedrunasevillasj.es",
     "phone": "+34 647959345",
     "url": "https://midu.dev",
-    "summary": "+15 years of experience as a web developer. Currently I am a content creator and development communicator. I live in Don Benito, Spain. I have worked in different environments: from accelerating the development of start-ups to leading teams in multinational companies.",
+    "summary": "I live in Don Benito, Spain.",
     "location": {
       "address": "",
       "postalCode": "06400",
@@ -39,7 +39,7 @@
       "url": "https://twitch.tv/midudev",
       "startDate": "2021-01-01",
       "endDate": null,
-      "summary": "Most watched development streamer in Spanish on Twitch. +1 million followers across all my social networks. Recognised by Google, Microsoft and GitHub for my impact on the development community.",
+      "summary": "",
       "highlights": [
         "Started the company"
       ]
